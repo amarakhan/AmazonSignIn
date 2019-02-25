@@ -1,0 +1,61 @@
+* {
+    /* border: 1px solid red; */
+}
+
+.amazon-logo>img {
+    width: 25%;
+    min-width: 150px;
+    max-width: 350px;
+    display: block;
+    margin: 0 auto;
+}
+
+.form-centering {
+    margin: 0 auto;
+    width: 40vw;
+}
+
+.form-centering {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #D9D8D8;
+    min-width: 300px;
+    max-width: 500px;
+}
+
+form {
+    padding: 3%;
+    min-width: 300px;
+    max-width: 500px;
+}
+
+#pw, #email{
+  font-weight: bold;
+}
+
+#email-input{
+  background-color: #FEFF98 ;
+}
+
+button, .btn {
+    text-align: center;
+    width: 100%;
+}
+
+#sign-in {
+    background-color: #EAB40A;
+}
+
+#create {
+    background-color: #E9E7E7;
+}
+
+footer {
+    text-align: center;
+}
+
+footer>div>ul>li {
+    display: inline-block;
+    list-style: none;
+    padding: .4em;
+}
